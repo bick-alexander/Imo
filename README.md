@@ -225,4 +225,4 @@ imo is the full free version with all features and updates included. There are n
 Start connecting with your friends for free! Download imo today and experience instant messaging at its best.
 
 ---
-**Last updated:** 2026-11-12 15:49:04 UTC
+**Last updated:** 2026-11-12 22:05:41 UTC
